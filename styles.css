@@ -1,0 +1,64 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 10px;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #ddd;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+.date {
+    font-style: italic;
+    margin-top: 0;
+    color: #666;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 0;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+.featured-image, .article-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    border-top: 2px solid #ddd;
+    padding-top: 10px;
+    color: #666;
+}
